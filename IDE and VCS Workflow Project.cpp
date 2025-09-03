@@ -9,9 +9,9 @@ int main()
 {
 	char first, middle, last;
 
-	first = 'N';
+	first = 'n';
 	middle = 'd';
-	last = 'J';
+	last = 'j';
 
 	cout << first << middle << last;
 	return 0;
