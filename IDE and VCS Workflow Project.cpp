@@ -10,7 +10,7 @@ int main()
 	char first, middle, last;
 
 	first = 'N';
-	middle = 'D';
+	middle = 'd';
 	last = 'J';
 
 	cout << first << middle << last;
