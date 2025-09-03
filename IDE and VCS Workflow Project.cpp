@@ -7,13 +7,15 @@ using namespace std;
 
 int main()
 {
-	char first, middle, last;
+	string name, address, phone;
 
-	first = 'n';
-	middle = 'd';
-	last = 'j';
+	name = "Nick Jennings";
+	address = "123 Main St, Anytown, USA";
+	phone = "757-876-1240";
 
-	cout << first << middle << last;
+	cout << name << endl;
+	cout << address << endl;
+	cout << phone << endl;
 	return 0;
 }
 
